@@ -1,3 +1,5 @@
+import 'materialize-css/dist/css/materialize.min.css';
+
 // All about Redux
 import React from 'react';
 import ReactDom from 'react-dom';
